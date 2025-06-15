@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
-<h3 align="center">I am currently an undergraduate majoring in Software Engineering at FPT University, with a focus on Web Development while also exploring other areas of Software Development.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicee-19&label=Viewers&color=0e75b6&style=flat" alt="alicee-19" /> </p>
+<p align="center">I am currently an undergraduate majoring in Software Engineering at FPT University, with a focus on Web Development while also exploring other areas of Software Development.</p>
 
 - 📫 How to reach me **ngbaoanh.19@gmail.com**
 
