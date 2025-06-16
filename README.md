@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
 <p align="center">I am currently an undergraduate majoring in Software Engineering at FPT University, with a focus on Web Development while also exploring other areas of Software Development.</p>
 
+- 👯 I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me **ngbaoanh.19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
